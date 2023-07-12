@@ -32,8 +32,40 @@
     "url": "https://github.com/Bioconductor/BiocManager"
   },
   {
-    "package": "describer",
-    "url": "https://github.com/LiNk-NY/describer"
+    "package": "BiocCheck",
+    "url": "https://github.com/Bioconductor/BiocCheck"
+  },
+  {
+    "package": "BiocHubsShiny",
+    "url": "https://github.com/Bioconductor/BiocHubsShiny"
+  },
+  {
+    "package": "UniProt.ws",
+    "url": "https://github.com/Bioconductor/UniProt.ws"
+  },
+  {
+    "package": "BiocIO",
+    "url": "https://github.com/Bioconductor/BiocIO"
+  },
+  {
+    "package": "AnVIL",
+    "url": "https://github.com/Bioconductor/AnVIL"
+  },
+  {
+    "package": "AnVILPublish",
+    "url": "https://github.com/Bioconductor/AnVILPublish"
+  },
+  {
+    "package": "rjsoncons",
+    "url": "https://github.com/mtmorgan/rjsoncons"
+  },
+  {
+    "package": "BiocPkgTools",
+    "url": "https://github.com/Bioconductor/BiocPkgTools"
+  },
+  {
+    "package": "GenomicDataCommons",
+    "url": "https://github.com/Bioconductor/GenomicDataCommons"
   },
   {
     "package": "newsfeed",
