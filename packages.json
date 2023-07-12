@@ -40,6 +40,10 @@
     "url": "https://github.com/Bioconductor/BiocHubsShiny"
   },
   {
+    "package": "BiocBaseUtils",
+    "url": "https://github.com/Bioconductor/BiocBaseUtils"
+  },
+  {
     "package": "UniProt.ws",
     "url": "https://github.com/Bioconductor/UniProt.ws"
   },
