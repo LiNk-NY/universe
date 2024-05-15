@@ -20,6 +20,10 @@
     "url": "https://github.com/waldronlab/SingleCellMultiModal"
   },
   {
+    "package": "terraTCGAdata",
+    "url": "https://github.com/waldronlab/terraTCGAdata"
+  },
+  {
     "package": "RTCGAToolbox",
     "url": "https://github.com/mksamur/RTCGAToolbox"
   },
@@ -30,6 +34,10 @@
   {
     "package": "BiocManager",
     "url": "https://github.com/Bioconductor/BiocManager"
+  },
+  {
+    "package": "BiocArchive",
+    "url": "https://github.com/Bioconductor/BiocArchive"
   },
   {
     "package": "BiocCheck",
@@ -52,8 +60,32 @@
     "url": "https://github.com/Bioconductor/BiocIO"
   },
   {
+    "package": "TENxIO",
+    "url": "https://github.com/waldronlab/TENxIO"
+  },
+  {
+    "package": "VisiumIO",
+    "url": "https://github.com/waldronlab/VisiumIO"
+  },
+  {
+    "package": "AnVILBase",
+    "url": "https://github.com/Bioconductor/AnVILBase"
+  },
+  {
     "package": "AnVIL",
     "url": "https://github.com/Bioconductor/AnVIL"
+  },
+  {
+    "package": "AnVILAz",
+    "url": "https://github.com/Bioconductor/AnVILAz"
+  },
+  {
+    "package": "AnVILGCP",
+    "url": "https://github.com/Bioconductor/AnVILGCP"
+  },
+  {
+    "package": "AnVILBase",
+    "url": "https://github.com/Bioconductor/AnVILBase"
   },
   {
     "package": "AnVILPublish",
@@ -64,12 +96,52 @@
     "url": "https://github.com/mtmorgan/rjsoncons"
   },
   {
+    "package": "rapiclient",
+    "url": "https://github.com/bergant/rapiclient"
+  },
+  {
     "package": "BiocPkgTools",
-    "url": "https://github.com/Bioconductor/BiocPkgTools"
+    "url": "https://github.com/seandavi/BiocPkgTools"
   },
   {
     "package": "GenomicDataCommons",
     "url": "https://github.com/Bioconductor/GenomicDataCommons"
+  },
+  {
+    "package": "oncoKBData",
+    "url": "https://github.com/waldronlab/oncoKBData"
+  },
+  {
+    "package": "OncoTree",
+    "url": "https://github.com/LiNk-NY/OncoTree"
+  },
+  {
+    "package": "GenomeNexus",
+    "url": "https://github.com/LiNk-NY/GenomeNexus"
+  },
+  {
+    "package": "BranchRename",
+    "url": "https://github.com/Bioconductor/BranchRename"
+  },
+  {
+    "package": "ReleaseLaunch",
+    "url": "https://github.com/Bioconductor/ReleaseLaunch"
+  },
+  {
+    "package": "BiocWorkshopSubmit",
+    "url": "https://github.com/Bioconductor/BiocWorkshopSubmit"
+  },
+  {
+    "package": "BiocPkgStats",
+    "url": "https://github.com/Bioconductor/BiocPkgStats"
+  },
+  {
+    "package": "BiocResourceStats",
+    "url": "https://github.com/Bioconductor/BiocResourceStats"
+  },
+  {
+    "package": "BiocCertificate",
+    "url": "https://github.com/Bioconductor/BiocCertificate"
   },
   {
     "package": "newsfeed",
